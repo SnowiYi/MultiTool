@@ -167,7 +167,7 @@ name="RunAsEnableAutoComplete">0</setting><setting name="RunAsProgram"></setting
 name="RunAsUserName"></setting><setting name="RunAsWindowPosition">0,0</setting><setting
 name="RunAsPackageWindowPosition">0,0</setting><setting
 name="RunAsPackageWindowSize">@96|500,300</setting><setting
-name="RunFileDlgState">0</setting><setting name="SampleCount">3c0</setting><setting
+name="RunFileDlgState">0</setting><setting name="SampleCount">500</setting><setting
 name="SampleCountAutomatic">1</setting><setting
 name="ScrollToNewProcesses">0</setting><setting
 name="ScrollToRemovedProcesses">0</setting><setting name="SearchEngine">https://duckduckgo.com/?q=&quot;%s&quot;</setting><setting
